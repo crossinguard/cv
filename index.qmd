@@ -1,0 +1,78 @@
+---
+toc: true
+toc-depth: 2
+title: Egbert | curriculum vitae
+---
+> # W. Brett Egbert
+> 
+>[<i class="bi bi-envelope-fill"></i> email](mailto:w.brett.egbert@gmail.com){target="_blank"} | [<i class="bi bi-linkedin"></i> linkedin](https://www.linkedin.com/in/w-brett-egbert/){target="_blank"} | [<i class="bi bi-patch-check-fill"></i> credly](https://www.credly.com/users/brett-egbert){target="_blank"} | 
+[<i class="bi bi-github"></i> github](https://github.com/crossinguard){target="_blank"}
+
+Data-focused professional specializing in process mapping and conveying complex information to stakeholders of various technical and knowledge backgrounds.
+
+### Key Skills
+
+`data analytics` · `data storytelling` · `SQL` · `R//tidyverse` · `Python//pandas` · `Markdown` · `Microsoft 365` · `asynchronous communication & workflow` · `ad-hoc analysis` · `problem solving` · `ThoughtSpot liveboard` · `Tableau dashboard` · `education` · `mathematics`
+
+## Professional Experience
+
+### Western Governors University
+*Salt Lake City UT (remote), 2020 - 2023*
+
+- **Business Analyst, Service Design and Innovation**
+*2023 (6 months)*
+  - Increased reporting accuracy and efficiency by developing team-level analytics workflows, including an automated data request ticketing processes, business intelligence reporting platforms, and digital file management conventions. 
+  - Removed reporting pain points by pulling and preparing data from diverse sources (e.g., database, csv, spreadsheet) to support the atypical reporting needs of partnerships and initiatives to drive alternate pathways to education for WGU students.
+  - Developed custom business intelligence dashboards to meet specialized data reporting requirements of WGU partnerships, including Amazon and the United States Navy Community College. 
+
+- **Assessment Developer, College of IT**
+*2021 - 2022*
+  - Designed and developed innovative hybrid coding assessments covering SQL, Python, and Java allowing open-ended student responses with adaptive auto-scoring efficiency and consistency.
+  - Analyzed test results, fairness metrics, and stakeholder feedback to create and maintain multiple assessment forms of equivalent content competency measurement.
+  - Piloted "surgical parallelism" approach in assessment design to enhance form equivalency by emphasizing a well-defined blueprint of question-level core skills to build item variants.
+
+- **Evaluator, Mathematics Education capstone**
+*2020 - 2021*
+  - Evaluated learner competency in capstone projects for middle and high school mathematics teacher candidates.
+  - Overhauled manual spreadsheet data analysis efforts with custom functions, conditional formatting, and data validation, providing a significant reduction in data entry errors and time-to-analyze.
+  - Piloted text-snippet application proposal to increase consistency and productivity in boilerplate evaluator communication, including the creation of training materials and metric generation.
+
+### Alpine School District
+*American Fork UT, 2012 - 2020*
+
+- **Mathematics Instructor & Department Chair, Skyridge High School**
+*2016 - 2020*
+  - Managed math department, including hiring, scheduling, peer evaluations, training, and mentoring of new instructors.
+  - Utilized learning management systems, video platforms, and assessment design tools to create a modern and accessible environment inclusive of varied home experiences, background knowledge levels, and learning preferences.
+
+- **Mathematics Instructor, Lehi High School**
+*2012 - 2016*
+  - Designed courses in alignment with the Utah Common Core, including course scope & sequence, original lesson plans & presentations, instructional video recordings, custom assessments, and application-based projects.
+
+## Education
+
+- **Bachelor of Science, Data Management/Data Analytics**
+  - *Western Governors University, 2022*
+- **Master of Arts, Mathematics Education**
+  - *Western Governors University, 2015*
+- **Bachelor of Science, Mathematics Education**
+  - *Brigham Young University, 2012*
+
+## Certification
+
+- **Google Data Analytics Certificate**
+  - *Coursera, 2023*
+- **Business User**
+  - *ThoughtSpotU, 2023*
+- **Udacity Data Analyst Nanodegree**
+  - *Udacity, 2022*
+- **Data Analyst Associate Certificate**
+  - *Datacamp, 2022*
+- **CompTIA A+**
+  - *CompTIA, 2022*
+- **CompTIA IT Operations Specialist**
+  - *CompTIA, 2022*
+- **CompTIA Network+**
+  - *CompTIA, 2021*
+- **CompTIA Project+**
+  - *CompTIA, 2019*
